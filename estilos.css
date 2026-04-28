@@ -1,0 +1,23 @@
+body{
+    background-color: #f4f4f9;
+    color: #333333;
+}
+
+#titulo-principal{
+    background-color: #8e44ad;
+    color: white;
+}
+
+h2{
+    color: #c0392b;
+}
+
+.destacado{
+    background-color: #f1c40f;
+    color: black;
+}
+
+.alerta{
+    background-color: #e74c3c;
+    color: white;
+}
